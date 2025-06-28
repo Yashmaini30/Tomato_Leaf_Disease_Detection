@@ -3,7 +3,7 @@
 *IEEE ICAIQSA 2024 Conference Paper*
 
 > 📄 [Read the Paper (IEEE)](https://doi.org/10.1109/ICAIQSA64000.2024.10882346)  
-> 🔗 [Dataset (Kaggle)](https://www.kaggle.com/datasets/kaustubhb999/tomatoleafdisease) | 🧠 [Plant Village Repository](https://plantvillage.psu.edu/)  
+> 🔗 [Dataset (Kaggle)](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf) | 🧠 [Plant Village Repository](https://plantvillage.psu.edu/)  
 > 📊 **97.23% Accuracy** | 🏆 **Best Performance on 10-Class Classification**
 
 ---
