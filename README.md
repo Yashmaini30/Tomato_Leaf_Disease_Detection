@@ -18,6 +18,14 @@ These results show a considerable improvement over standard CNN, Xception, and D
 
 ---
 
+## ✨ Highlights
+- 📊 Achieved **97.23% accuracy** on 10-class tomato leaf dataset
+- ⚡ Hybrid optimization using **Bayesian Optimization + PBT**
+- 🧠 Architecture enhancements with **Dilated Convolutions + SE Blocks**
+- 🧪 Compared against CNN, DenseNet, and baseline Xception
+- 🔬 Open-sourced notebooks for reproducibility and extension
+---
+
 ## 📚 Introduction
 
 **Motivation:**  
